@@ -1,5 +1,4 @@
-// Game by Lukefest in the face of overwhelming odds and homework
-
+// Game by Lukefest in the face of underwhelming odds
 
 //Guy says: Create 6 arrays, one for nouns, one for verbs, one for adjectives, one for places and one for people
 
